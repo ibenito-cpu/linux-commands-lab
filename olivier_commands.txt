@@ -1,0 +1,21 @@
+1.  git clone git@github.com:luckydus5/linux-commands-lab.git
+2.  clear
+3.  ls
+4.  cd linux-commands-lab
+5.  ls
+6.  git checkout -b Olivier-d
+7.  git checkout -b olivier_d
+8.  echo "We are learning git in breakout rooms" > Olivier_Dusabamahoro
+9.  git add .
+10. git commit -m "OLivier Dusabamahoro's Branch"
+11. git push
+12. git push --set-upstream origin olivier_d
+13. clear
+14. git branch
+15. git pull
+16. clear
+
+17. git push -u origin olivier_d
+18. git pull origin olivier_d
+19. git fetch origin
+
